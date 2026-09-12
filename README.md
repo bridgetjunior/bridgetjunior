@@ -6,7 +6,7 @@ My main tech stack is python, C, Java & SQL. My favorite tools are apple notes &
 
 **Fun facts:**
 - I don't like coffee
-- 
+  
 
 <!--
 **bridgetjunior/bridgetjunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
