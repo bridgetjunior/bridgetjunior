@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=360&height=44&lines=%3C3" alt="Typing headlines" />
 </p>
 
-### 🚀 About Me
+###  About Me
 
 CS &amp; Math student @ Sorbonne
 
@@ -37,7 +37,7 @@ CS &amp; Math student @ Sorbonne
   <a href="https://www.linkedin.com/in/bridget-jr-a-8a21b431b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-### 💭 Dev Quote
+### 💭 
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
