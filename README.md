@@ -12,7 +12,7 @@
 
 CS &amp; Math student @ Sorbonne
 
-🔭 &nbsp;I'm currently working on **a fraud detection platform**  
+🔭 &nbsp;I'm currently working on **a fraud detection platform** and **WOOHP OS**  
 🌱 &nbsp;I'm currently learning **Operating systems &amp; Networks**  
 😄 &nbsp;Pronouns: **she/her**
 
